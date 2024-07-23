@@ -1,5 +1,5 @@
 ## **Education**  
-- Integrated Dual Degree (B.Tech+M.Tech), Pharmaceutical Engineering & Technology &ensp (_August 2019 - May 2024_)
+- Integrated Dual Degree (B.Tech+M.Tech), Pharmaceutical Engineering & Technology &ensp (_August 2019 - May 2024_)  
   _Indian Institute of Technology (BHU), Varanasi_  
 
 ## **Research Experience**  
