@@ -22,4 +22,11 @@
   2. Identified some **rare pathogenic variants**, which were already annotated in the OncoKB database. Further studies were performed to understand the significance of these variants in the clinical prognosis of OSCC-GB patients. The manuscript for the study is currently under preparation.
 
 ![Survival Analysis](/asset/img/Survival.jpg)
-  
+
+## **Publications**  
+- Nag S<sup>1</sup>, **Mandal A**<sup>1</sup>, Joshi A<sup>1</sup>, Jain N, Srivastava RS, Singh S, Khattri A. **Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment.** Diseases. 2022; 10(4):114. [Link](https://doi.org/10.3390/diseases10040114)    
+- Nag, S., Baidya, A. T. K., **Mandal A.**, Mathew, A. T., Das, B., Devi, B., & Kumar, R. **Deep learning tools for advancing drug discovery and development.** 3 Biotech, (2022); 12(5).
+  [Link](https://doi.org/10.1007/s13205-022-03165-8)  
+- **Mandal A,** Khattri A., **Predisposing Germline Mutations associated with early onset and 
+poor prognosis in Indian patients diagnosed with Gingivo-buccal Oral Squamous Cell Carcinoma.** [Manuscript under preparation]
+
