@@ -18,7 +18,7 @@
 - **Topic:** Develop a pipeline for identifying Germline Variants responsible for Oral Cancer in Indian patients.
 - **Supervisor:** Dr. Arun Khattri, Assitant Professor
 - **Contributions:**
-  1. WES data from the normal tissues of 62 OSCC-GB patients and gene panel sequencing data from 120 HNSCC patients were used to extract and annotate the SNPs. These SNPs were then annotated and **filtered based on their IMPACT, SIFT, and PolyPhen scores, along with their clinical significance**.
+  1. Whole Exome Sequencing data from the normal tissues of 62 OSCC-GB patients and gene panel sequencing data from 120 HNSCC patients were used to extract and annotate the SNPs. These SNPs were then annotated and **filtered based on their IMPACT, SIFT, and PolyPhen scores, along with their clinical significance**.
   2. Identified some **rare pathogenic variants**, which were already annotated in the OncoKB database. Further studies were performed to understand the significance of these variants in the clinical prognosis of OSCC-GB patients. The manuscript for the study is currently under preparation.
 
 ![Survival Analysis](/asset/img/Survival.jpg)
