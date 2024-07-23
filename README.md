@@ -1,6 +1,7 @@
 ## **Education**  
-**Integrated Dual Degree (B.Tech+M.Tech), Pharmaceutical Engineering & Technology (_August 2019 - May 2024_)**  
-  _Indian Institute of Technology (BHU), Varanasi_  
+**Integrated Dual Degree (B.Tech+M.Tech) @ Indian Institute of Technology (BHU), Varanasi (_August 2019 - May 2024_)**
+- **Background:** Pharmaceutical Engineering & Technology
+- **CPI:** 8.74   
 
 ## **Research Experience**  
 **Summer Research Intern @ University of Western Ontario, Canada (_May 2023 - August 2023_)**   
