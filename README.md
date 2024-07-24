@@ -1,3 +1,11 @@
+## **Technical Skills**  
+- R Programming  
+- Bash script  
+- Python  
+- Machine Learning  
+- SQL  
+- R shiny  
+  
 ## **Education**  
 **Integrated Dual Degree (B.Tech+M.Tech) @ Indian Institute of Technology (BHU), Varanasi, India (_August 2019 - May 2024_)**  
 - **Background:** Pharmaceutical Engineering & Technology  
@@ -40,7 +48,6 @@
 
 [Report](/asset/img/Exploratory.pdf)
 
-
 ## **Corporate Experience**  
 **Biomedical Data Analyst Intern @ Elucidata Corporation, Delhi (_February 2022 - July 2022_)**  
 - **Project Title: **Data Consumption board on Polly.  
@@ -48,17 +55,28 @@
 - **Contributions:**  
   1. Developed a **multi-modular web-based application for auditing multi-omics data** curated in their repository, Polly. Each module was designed with a specific purpose, such as providing a brief overview of the data present in the atlas, data visualization, providing a detailed overview of each atlas at the dataset level, and generating a report of all the analyses.  
   2. Users can now **visualize and compare the data across multiple atlases** and filter them based on **disease, data type, organism, tissue, cell line, cell type,** and **drugs.**  
+ 
+## **Publications**  
+- Nag S<sup>1</sup>, **Mandal A**<sup>1</sup>, Joshi A<sup>1</sup>, Jain N, Srivastava RS, Singh S, Khattri A. **Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment.** Diseases. 2022; 10(4):114. [Link](https://doi.org/10.3390/diseases10040114)    
+- Nag, S., Baidya, A. T. K., **Mandal A.**, Mathew, A. T., Das, B., Devi, B., & Kumar, R. **Deep learning tools for advancing drug discovery and development.** 3 Biotech, (2022); 12(5).
+  [Link](https://doi.org/10.1007/s13205-022-03165-8)  
+- **Mandal A,** Khattri A., **Predisposing Germline Mutations associated with early Onset and Poor Prognosis in Indian patients diagnosed with Gingivo-buccal Oral Squamous Cell Carcinoma.** [Manuscript under preparation]  
+
+## **Conferences**  
+- Nag, S., Baidya, A. T. K., **Mandal A.**, Mathew, A. T., Das, B., Devi, B., & Kumar, R. **Deep learning tools for advancing drug discovery and development.**; **Inter IIT Tech Meet 11.0 by IIT Kanpur STUDENTS’ ACADEMIC CONFERENCE (SAC)** [Link](https://doi.org/10.1007/s13205-022-03165-8)  
 
 ## **Awards and Achievements**  
 - Selected as **Junior Research Fellowship scholar at IIT-Bombay** under the supervision of **Dr. Shobha Shukla**, Metallurgy Engineering and Material Sciences. (_2024_)  
 - Received the **IIT-BHU Global Alumni Association Graduate Study Application Scholarship (GSAS)** for exceptional academic and research excellence. (_2023_)  
 - Received the **Mitacs Globalink Research Internship 2023 (Mitacs GRI’23) scholarship** for a 12-week fully funded research internship at the **University of Western Ontario, Canada**, under the supervision of **Dr. Pingzhao Hu**, Department of Computer Science. (_2023_)  
-- Received the **Biomedical Data Analyst Fellowship** from **Elucidata Corporation** and was among the **top 20 awardees across India**. (_2022_)
+- Received the **Biomedical Data Analyst Fellowship** from **Elucidata Corporation** and was among the **top 20 awardees across India**. (_2022_)  
 
-
-## **Publications**  
-- Nag S<sup>1</sup>, **Mandal A**<sup>1</sup>, Joshi A<sup>1</sup>, Jain N, Srivastava RS, Singh S, Khattri A. **Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment.** Diseases. 2022; 10(4):114. [Link](https://doi.org/10.3390/diseases10040114)    
-- Nag, S., Baidya, A. T. K., **Mandal A.**, Mathew, A. T., Das, B., Devi, B., & Kumar, R. **Deep learning tools for advancing drug discovery and development.** 3 Biotech, (2022); 12(5).
-  [Link](https://doi.org/10.1007/s13205-022-03165-8)  
-- **Mandal A,** Khattri A., **Predisposing Germline Mutations associated with early Onset and Poor Prognosis in Indian patients diagnosed with Gingivo-buccal Oral Squamous Cell Carcinoma.** [Manuscript under preparation]
-
+## **Leadership roles**
+- **Mentor, IIT-BHU Research Cell (_August 2022 - May 2024_)**  
+  1. **Guided junior researchers** through their research projects, providing support and expertise.  
+  2. **Assisted in securing internships** for students at prestigious institutions in India and abroad.  
+  3. **Offered personalized mentorship**, enhancing students' research skills and career prospects.  
+- **Head of Database Team, IIT-BHU Research Cell (_August 2021 - July 2022_)**  
+  1. **Coordinated with team members** to systematically **curate data** from multiple online sources to ensure **accurate and up-to-date information** on **various student research opportunities**.  
+  2. **Engaged with alumni** to **gather insights and information on research opportunities** across various fields.  
+  3. **Facilitated communication** between current students and alumni to **bridge the gap between academia and industry**.  
