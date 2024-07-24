@@ -13,7 +13,7 @@
 
 ![Alignment of RNA-Seq data of tumor cells with the normal epithelial cells to form cell clusters](/asset/img/UWO.jpg)  
 
-**Master's Thesis @ Indian Institute of Technology (BHU), Varanasi, India (_January 2023 - Present_)**  
+**Master's Thesis Project @ Indian Institute of Technology (BHU), Varanasi, India (_January 2023 - Present_)**  
 - **Topic:** Develop a pipeline for identifying Germline Variants responsible for Oral Cancer in Indian patients.  
 - **Supervisor:** Dr. Arun Khattri, Assitant Professor  
 - **Contributions:**  
@@ -21,6 +21,10 @@
   2. Identified some **rare pathogenic variants**, which were already annotated in the OncoKB database. Further studies were performed to understand the significance of these variants in the clinical prognosis of OSCC-GB patients. The manuscript for the study is currently under preparation.  
 
 ![Survival Analysis](/asset/img/Survival.jpg)  
+
+**Undergraduate Project @ Indian Institute of Technology (BHU), Varanasi, India (_August 2021 - December 2022_)**  
+- **Topic:** Gene expression analysis to identify potential biomarkers among Lymphoma patients
+- **Supervisor:** Dr. Arun Khattri, 
 
 ## **Corporate Experience**  
 **Biomedical Data Analyst Intern @ Elucidata Corporation, Delhi (_February 2022 - July 2022_)**  
