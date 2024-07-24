@@ -22,7 +22,7 @@
 
 ![Survival Analysis](/asset/img/Survival.jpg)  
 
-##**Corporate Experience**  
+## **Corporate Experience**  
 **Biomedical Data Analyst Intern @ Elucidata Corporation, Delhi (_February 2022 - July 2022_)**  
 - **Project Title: **Data Consumption board on Polly.  
 - **Team members:** Dr. Meeta Sunil, Senior Bioinformatics Scientist, Saurabh Whadgar  
@@ -30,7 +30,7 @@
   1. Developed a **multi-modular web-based application for auditing multi-omics data** curated in their repository, Polly. Each module was designed with a specific purpose, such as providing a brief overview of the data present in the atlas, data visualization, providing a detailed overview of each atlas at the dataset level, and generating a report of all the analyses.  
   2. Users can now **visualize and compare the data across multiple atlases** and filter them based on **disease, data type, organism, tissue, cell line, cell type,** and **drugs.**  
 
-##**Awards and Achievements**  
+## **Awards and Achievements**  
 - Selected as **Junior Research Fellowship scholar at IIT-Bombay** under the supervision of **Dr. Shobha Shukla**, Metallurgy Engineering and Material Sciences. (_2024_)  
 - Received the **IIT-BHU Global Alumni Association Graduate Study Application Scholarship (GSAS)** for exceptional academic and research excellence. (_2023_)  
 - Received the **Mitacs Globalink Research Internship 2023 (Mitacs GRI’23) scholarship** for a 12-week fully funded research internship at the **University of Western Ontario, Canada**, under the supervision of **Dr. Pingzhao Hu**, Department of Computer Science. (_2023_)  
