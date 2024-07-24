@@ -37,7 +37,10 @@
 - **Contributions:**  
   1. A list of drugs containing both Neurotoxic and Neuroprotective compounds, along with their SMILES, was collected from the **PubChem database**. The descriptors for each compound were derived from the **BioTriangle database**. After further data preprocessing, these data were used to train the machine learning model.
   2. Developed a **machine-learning model, Support Vector Machine (SVM)**, for the classification of compounds as neurotoxic/neuroprotective in nature with an **accuracy of 83%**.
-     
+
+[Report](/asset/img/Exploratory.pdf)
+
+
 ## **Corporate Experience**  
 **Biomedical Data Analyst Intern @ Elucidata Corporation, Delhi (_February 2022 - July 2022_)**  
 - **Project Title: **Data Consumption board on Polly.  
