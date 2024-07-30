@@ -50,7 +50,7 @@
 
 ## **Corporate Experience**  
 **Biomedical Data Analyst Intern @ Elucidata Corporation, Delhi (_February 2022 - July 2022_)**  
-- **Project Title: **Data Consumption board on Polly.  
+- **Project Title:** Data Consumption board on Polly.  
 - **Team members:** Dr. Meeta Sunil, Senior Bioinformatics Scientist, Saurabh Whadgar  
 - **Contributions:**  
   1. Developed a **multi-modular web-based application for auditing multi-omics data** curated in their repository, Polly. Each module was designed with a specific purpose, such as providing a brief overview of the data present in the atlas, data visualization, providing a detailed overview of each atlas at the dataset level, and generating a report of all the analyses.  
