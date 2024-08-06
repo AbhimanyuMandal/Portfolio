@@ -8,7 +8,7 @@
   
 ## **Education**  
 **Integrated Dual Degree (B.Tech+M.Tech) @ Indian Institute of Technology (BHU), Varanasi, India (_August 2019 - May 2024_)**  
-- **Background:** Mechanical Engineering  
+- **Background:** Pharmaceutical Engineering & Technology  
 - **CPI:** 8.74   
 
 ## **Research Experience**  
