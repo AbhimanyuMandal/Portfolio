@@ -4,7 +4,8 @@
 - Python  
 - Machine Learning  
 - SQL  
-- R shiny  
+- R shiny
+- HTML, CSS, JavaScript  
   
 ## **Education**  
 **Integrated Dual Degree (B.Tech+M.Tech) @ Indian Institute of Technology (BHU), Varanasi, India (_August 2019 - May 2024_)**  
